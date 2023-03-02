@@ -1,3 +1,5 @@
 untuk fitur1
 biar eror(b)
 biar eror(a)
+for c
+for c
