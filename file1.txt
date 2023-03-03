@@ -1,2 +1,3 @@
 tambah file1
 for rebase
+for squash
